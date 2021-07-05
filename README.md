@@ -1,2 +1,2 @@
 # IceVim
-A Neovim distrobution inspired by the Nord colour scheme
+A Neovim distribution inspired by the Nord colour scheme
